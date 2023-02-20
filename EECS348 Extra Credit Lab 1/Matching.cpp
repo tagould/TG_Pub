@@ -37,7 +37,6 @@ int main()
         {
             if (row < 5) {dept_array[col][row] = int_array[row*5+col];} // if department
             else {prog_array[col][row-5] = int_array[row*5+col];} // if programmer
-            
         }
     }
     /* End of making arrays */
