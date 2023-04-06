@@ -1,0 +1,11 @@
+body {
+    background-color: lightslategrey;
+  }
+  h1, h2, h3 {
+    color: rgb(68, 68, 255);
+    font-family: 'Courier New', monospace;
+  }
+  p {
+    color: black;
+    font-family: 'Times New Roman', serif;
+  }
